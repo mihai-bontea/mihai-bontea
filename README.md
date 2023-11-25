@@ -1,5 +1,3 @@
-![m,ylinkedin](https://github.com/mihai-bontea/Propositional-Logic-Solver/assets/79721547/c904a51e-3a80-44a4-8662-7a3f0175237b)
-
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">My areas of interest are cybersecurity, problem solving and software design.</h3>
 
