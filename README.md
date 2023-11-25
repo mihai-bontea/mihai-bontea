@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihai-bontea&label=Profile%20views&color=0e75b6&style=flat" alt="mihai-bontea" /> </p>
 
-- 🔭 I’m currently working on **Prop.-Logic-Solver**
+- 🔭 I’m currently working on [Prop.-Logic-Solver](https://github.com/mihai-bontea/Prop.-Logic-Solver)
 
 - 🌱 I’m currently learning about **SAT solvers and malware**
 
 - 👯 I’m looking for **competitive programming teammates**
 
-- 📫 How to reach me **mihai.bontea@protonmail.com**
+- 📫 How to reach me: **mihai.bontea@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihai-bontea&show_icons=true&locale=en&layout=compact" alt="mihai-bontea" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihai-bontea&show_icons=true&locale=en" alt="mihai-bontea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihai-bontea&" alt="mihai-bontea" /></p>
 
