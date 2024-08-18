@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihai-bontea&label=Profile%20views&color=0e75b6&style=flat" alt="mihai-bontea" /> </p>
 
-- 🔭 I’m currently working on [Prop.-Logic-Solver](https://github.com/mihai-bontea/Prop.-Logic-Solver)
+- 🔭 I’m currently working on [Deleted file recovery](https://github.com/mihai-bontea/Deleted-file-recovery)
 
-- 🌱 I’m currently learning about **SAT solvers and malware**
+- 🌱 I’m currently learning about **Windows file system**
 
 - 👯 I’m looking for **competitive programming teammates**
 
