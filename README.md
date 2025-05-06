@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihai-bontea&label=Profile%20views&color=0e75b6&style=flat" alt="mihai-bontea" /> </p>
 
-- 🔭 I’m currently working on [Deleted file recovery](https://github.com/mihai-bontea/Deleted-file-recovery)
+- 🔭 I’m currently working on https://github.com/mihai-bontea/C-Compiler
 
-- 🌱 I’m currently learning about **Windows file system**
-
-- 👯 I’m looking for **competitive programming teammates**
+- 🌱 I’m currently learning about **Discrete Optimization**
 
 - 📫 How to reach me: **mihai.bontea@protonmail.com**
 
